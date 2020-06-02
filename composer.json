@@ -11,10 +11,10 @@
     "require": {
         "php": ">=7.2",
         "ext-json": "*",
-        "illuminate/support": "5.7.*|5.8.*|^6.0|^7.*",
-        "illuminate/http": "5.7.*|5.8.*|^6.0|^7.*",
-        "illuminate/container": "5.7.*|5.8.*|^6.0|^7.*",
-        "illuminate/pipeline": "5.7.*|5.8.*|^6.0|^7.*",
+        "illuminate/support": "5.7.*|5.8.*|^6.0|^7",
+        "illuminate/http": "5.7.*|5.8.*|^6.0|^7",
+        "illuminate/container": "5.7.*|5.8.*|^6.0|^7",
+        "illuminate/pipeline": "5.7.*|5.8.*|^6.0|^7",
         "phpdocumentor/reflection-docblock": "~4.3"
     },
     "require-dev": {
